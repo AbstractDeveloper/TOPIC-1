@@ -1,0 +1,44 @@
+body {
+    ;
+}
+
+h1 {
+    text-align: center;
+    border: groove;
+    border-color: coral;
+    border-radius: 10px;
+}
+
+h2 {
+    font-style: italic;
+    color: #ff000f;
+    text-align: center;
+    border: dotted;
+    border-color: coral
+}
+
+p {
+    font-family: verdana;
+    font-size: 15px;
+    text-align: left;
+}
+
+ul {
+    font-family: verdana;
+    font-size: 15px;
+    text-align: left;
+}
+
+span {
+    color: red;
+}
+
+img {
+    align-items: right;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+.text {
+    float: left;
+}
