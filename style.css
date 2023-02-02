@@ -1,12 +1,13 @@
-body {
+body{
+    background-color:white;
     ;
 }
-
 h1 {
     text-align: center;
     border: groove;
     border-color: coral;
     border-radius: 10px;
+    background-color: #034f84;
 }
 
 h2 {
@@ -14,19 +15,22 @@ h2 {
     color: #ff000f;
     text-align: center;
     border: dotted;
-    border-color: coral
+    border-color: coral;
+    background-color: lightyellow;
 }
 
 p {
     font-family: verdana;
-    font-size: 15px;
+    font-size: 16px;
     text-align: left;
+    background-color: beige;
 }
 
 ul {
     font-family: verdana;
-    font-size: 15px;
+    font-size: 16px;
     text-align: left;
+    background-color: beige;
 }
 
 span {
@@ -38,7 +42,4 @@ img {
     margin-left: auto;
     margin-right: auto;
     float: right;
-}
-.text {
-    float: left;
 }
