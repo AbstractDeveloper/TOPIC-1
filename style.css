@@ -16,25 +16,23 @@ h2 {
     text-align: center;
     border: dotted;
     border-color: coral;
-    background-color: lightyellow;
+    background-color: lightgoldenrodyellow;
 }
 
 p {
     font-family: verdana;
     font-size: 16px;
     text-align: left;
-    background-color: beige;
 }
 
 ul {
     font-family: verdana;
     font-size: 16px;
     text-align: left;
-    background-color: beige;
 }
 
 span {
-    color: red;
+    color: white;
 }
 
 img {
